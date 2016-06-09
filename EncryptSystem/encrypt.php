@@ -32,17 +32,6 @@
     <option name="MD5">MD5</option>
   </select>
   <br><br>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js" type="text/javascript" charset="utf-8">	
-</script>
-<script type="text/javascript">
-$("#input").keypress(function (e) {
-    if(e.which == 13 && !e.shiftKey) {        
-        $(this).closest("form").submit();
-        e.preventDefault();
-        return false;
-    }
-});
-</script>
 
 
 	<textarea id="input" rows="25" cols="150" name="input" placeholder="Enter the text you want to encrypt."></textarea>
