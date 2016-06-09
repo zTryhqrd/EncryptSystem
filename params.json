@@ -1,0 +1,6 @@
+{
+  "name": "EncryptSystem",
+  "tagline": "",
+  "body": "# EncryptSystem\r\nWith this sytem you can encrypt a text or word to a hash.\r\n\r\nSupported Hashes:\r\n  - SHA512\r\n  - SHA256\r\n  - SHA1\r\n  - SHA384\r\n  - MD5\r\n  \r\n***\r\n> SkyDZN © 2016\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
