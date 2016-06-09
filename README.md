@@ -7,5 +7,7 @@ Supported Hashes:
   - SHA1
   - SHA384
   - MD5
+
+***
   
 > SkyDZN © 2016
